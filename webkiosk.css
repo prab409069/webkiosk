@@ -1,0 +1,64 @@
+body
+{
+	margin:0px;
+}
+#div1
+{
+	background-color:#669;
+	height:100px;
+	color:white;
+	padding:10px;
+}
+img{
+	position:absolute;
+	width:600px;
+	height:300px;
+	margin:10px;
+	border-radius:10px;	
+	border:10px solid white;
+}
+#div2
+{
+	height:400px;
+	width:670px;
+
+	
+	float:left;
+} 	
+#div3
+{
+	height:400px;
+	width:670px;
+	
+	float:left;
+} 
+#div4
+{
+	height:450px;
+	background-color:#DDD; 	
+	
+	
+} 		
+#form1
+{
+	background-color:#555;
+	color:#EEE;
+
+	font-size:22px;
+}
+#div5
+{
+	background-color:#669;
+	height:100px;
+	color:#A00;
+}
+#a1
+{
+	text-decoration:none;
+	color:#EEE;
+}
+#h11
+{
+	font-family:Verdana, Geneva, sans-serif;
+}
+

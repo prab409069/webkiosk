@@ -1,0 +1,132 @@
+#psk1{
+	background-color:#700;
+	height:50px;
+	margin:0px;
+	
+	
+}
+body{
+	margin:0px;
+	background-color:#888;
+}
+ul
+{
+	list-style-type:none;
+	padding:15px;
+	
+}
+li
+{
+	display:inline;
+	padding:20px;
+	
+}
+a{
+	text-decoration:none;
+	color:#EEE;
+}
+#time{
+	text-decoration:blink;
+	color:#000;
+}
+li:hover{
+	background-color:#D00;
+}
+#ip1
+{
+	border-radius:50px;
+	
+}
+
+#psk2
+{
+	padding-left:10px;
+	width:500px;
+	height:580px;
+	float:right;
+		background-color:#EEE;
+}
+#img1:hover{
+	width:130px;
+	height:130px;
+	-webkit-transition:all 5s;
+}
+#href1
+{
+	color:#00D;
+}
+#edit
+{
+	padding:10px;
+	display:none;
+	font-size:24px;
+}
+#srs
+{
+	background-color:#444;
+	height:600px;
+	display:none;
+	color:#EEE;
+}
+#acad
+{
+	background-color:#444;
+	height:600px;
+	display:none;
+	color:#EEE;
+}
+#exam
+{
+	background-color:#444;
+	height:600px;
+	display:none;
+	color:#EEE;
+}
+#sub
+{
+	background-color:#EEE;
+	height:470px;
+	width:750px;
+	display:none;
+	color:#EEE;
+	margin:30px;
+}
+#subul
+{
+	list-style-type:none;
+	display:inline;
+}
+.subul:hover
+
+{
+	background-color:#099;
+	padding:15px;
+	list-style-type:none;
+}
+#fee
+{
+	background-color:#EEE;
+	height:470px;
+	width:750px;
+	display:none;
+	color:#EEE;
+	margin:30px;
+}
+#marks
+{
+	background-color:#EEE;
+	height:470px;
+	width:750px;
+	display:none;
+	color:#EEE;
+	margin:30px;
+}
+#attendence
+{
+	background-color:#EEE;
+	height:470px;
+	width:750px;
+	display:none;
+	color:#EEE;
+	margin:30px;
+}
