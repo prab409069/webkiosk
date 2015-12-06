@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Webkiosk</title>
+<title>College Finder</title>
 <link href="webkiosk.css" rel="stylesheet" type="text/css" />
 <script type="text/javascript" src="jquery-1.11.1.min.js">
 </script>
@@ -16,8 +16,8 @@
 
 <body>
 <div id="div1">
-<b><h1 id="h11">THAPAR UNIVERSITY WEBKIOSK</h1></b>
-<p>FOR PARENTS/STUDENT</p>
+<b><h1 id="h11">COLLEGE FINDER</h1></b>
+
 </div>
 <div id="div4">
 <div id="div2">
@@ -32,11 +32,11 @@
 </div>
 <div id="div3">
   <form id="form1" action="login.php" method="post">
-<center><h1><marquee>Log In to your account</marquee></h1></center>
+<center><h1>Log In to your account</h1></center>
 <table cellpadding="10px" width="300px">
 <tr>
-<td>Roll No.</td>
-<td><input type="number" name="roll" placeholder="Roll.No" required="required" width="200px" /></td>
+<td>Username</td>
+<td><input type="text" name="roll" placeholder="username" required="required" width="200px" /></td>
 </tr>
 <tr><td>Password</td>
 <td><input type="password" required="required" name="pass" placeholder="password" width="200px"/></td>
@@ -55,7 +55,7 @@
 </div>
 <div id="div5">
 <br />
-Disclaimer : Thapar University is not responsible for any inadvertent error that may have crept in the results being published on WEB KIOSK. The results published on net are for immediate information to the examinees. These cannot be treated as final result. Original Grade Cards have been issued by the University separately under the signature of Registrar and are authentic proof of academic performance.
+<center>Createb by Harshit Tayal and Dhwani Sahdev</center>
 </div>
 </body>
 </html>

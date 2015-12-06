@@ -63,3 +63,8 @@ function ahr()
 {
 	window.alert("Please contact CITM department\n for more details.");
 }
+function showValue(newValue)    {
+    document.getElementById("range").innerHTML=newValue;    }
+	
+	function showValue2(newValue)    {
+    document.getElementById("range2").innerHTML=newValue;    }

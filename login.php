@@ -8,16 +8,8 @@ $pass=$_POST['pass'];
 
 $data=mysql_query("select * from `account` where `roll`='$roll'");
 $row=mysql_fetch_array($data);
-	if($pass==prabhjot && $roll==409069)
-	{
-		$_SESSION['login']="admin";
-		header('location:thapar.php');
-		}
-		if($pass==pallavi && $roll==277984)
-	{
-		$_SESSION['login']="teacher";
-		header('location:teacher.php');
-		}	
+	
+			
        if($row['password']==$pass)
 	   {
 		  $_SESSION['login']=$roll;

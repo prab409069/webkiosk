@@ -4,7 +4,7 @@ body
 }
 #div1
 {
-	background-color:#669;
+	background-color:#066;
 	height:100px;
 	color:white;
 	padding:10px;
@@ -12,8 +12,8 @@ body
 img{
 	position:absolute;
 	width:600px;
-	height:300px;
-	margin:10px;
+	height:350px;
+	margin:5px;
 	border-radius:10px;	
 	border:10px solid white;
 }
@@ -27,30 +27,36 @@ img{
 } 	
 #div3
 {
-	height:400px;
-	width:670px;
-	
+	height:350px;
+	width:650px;
+	background-color:#666;
 	float:left;
+	border-radius:10px;	
+	border:5px solid white;
+	margin:5px;
+	margin-top:20px;
+	color:#FFF;
 } 
 #div4
 {
 	height:450px;
-	background-color:#DDD; 	
+	background-color:#066;	
 	
 	
 } 		
 #form1
 {
-	background-color:#555;
-	color:#EEE;
+	padding:5px;
+	background-color:#666;
+	
 
 	font-size:22px;
 }
 #div5
 {
-	background-color:#669;
+	background-color:#903;
 	height:100px;
-	color:#A00;
+	color:white;
 }
 #a1
 {
